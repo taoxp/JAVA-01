@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../ideaworkspace/spring-framework" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ideaworkspace/spring-framework-5.0.2.RELEASE" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yinshan/Arkham" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yinshan/CrediNex" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yinshan/Hive" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yinshan/Protoss" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yinshan/adapundi" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yinshan/adapundi-qa" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yinshan/auth-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yinshan/gateway" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yinshan/javaLambdaModel" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yinshan/lovina" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yinshan/new_temp/Arkham" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yinshan/notification-center" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yinshan/temp/Arkham" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yinshan/temp/Hive" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yinshan/temp/adapundi" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yinshan/temp/adapundi-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yinshan/temp/adapundi-qa" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yinshan/temp/akkademo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yinshan/temp/javaLambdaModel" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../yinshan/temp/lovina" value="PREVIEW" />
+        <entry key="$USER_HOME$/tmp/Arkham" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="32" />
+    <option name="y" value="24" />
+    <option name="width" value="1648" />
+    <option name="height" value="962" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
