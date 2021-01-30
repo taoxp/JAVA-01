@@ -1,0 +1,20 @@
+plugins {
+    id 'java'
+}
+
+group 'com.jike'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    implementation 'io.netty:netty-all:4.1.45.Final'
+    implementation 'commons-logging:commons-logging:1.2'
+    implementation 'org.slf4j:slf4j-api:1.7.25'
+    implementation group: 'com.squareup.okhttp3', name: 'okhttp', version: '4.9.0'
+}
